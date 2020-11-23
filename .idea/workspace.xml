@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6015ce6f-c1af-41c8-a9ac-d0b94dacf72b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1k2jLZvqdwbTRmMVV9nAXUl27Pe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/icon" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webstrom_workspace\yiheng\Picture" />
+      <recent name="D:\webstrom_workspace\yiheng" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webstrom_workspace\yiheng\icon" />
+      <recent name="D:\webstrom_workspace\yiheng\Picture" />
+      <recent name="D:\webstrom_workspace\yiheng\Images\banner" />
+      <recent name="D:\webstrom_workspace\yiheng\Images" />
+      <recent name="D:\webstrom_workspace\yiheng\Images\team" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6015ce6f-c1af-41c8-a9ac-d0b94dacf72b" name="Default Changelist" comment="" />
+      <created>1604905524545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604905524545</updated>
+      <workItem from="1604905525621" duration="9866000" />
+      <workItem from="1604980285536" duration="7533000" />
+      <workItem from="1605062595072" duration="6155000" />
+      <workItem from="1605165805531" duration="5341000" />
+      <workItem from="1605252514366" duration="7533000" />
+      <workItem from="1605510248084" duration="1803000" />
+      <workItem from="1605578949317" duration="5000" />
+      <workItem from="1605665540468" duration="20730000" />
+      <workItem from="1606036017641" duration="875000" />
+      <workItem from="1606127873641" duration="1112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="310" key="#Web_Browsers" timestamp="1605076237725">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="748" y="310" key="#Web_Browsers/0.0.1920.1050@0.0.1920.1050" timestamp="1605076237725" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605255106030">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605255106030" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1605251330929">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605251330929" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1605679447483">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605679447483" />
+    <state x="660" y="397" width="596" height="642" key="find.popup" timestamp="1605672314716">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="660" y="397" width="596" height="642" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1605672314716" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1605695964071">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1605695964071" />
+  </component>
+</project>
